@@ -21,6 +21,7 @@ export default class ConvertImagetoPDF extends LightningElement {
 
   handleFileNameChange(event) {
     this.fileName = event.target.value;
+    console.log(this.fileName);
   }
 
   handleFilesChange(event) {
