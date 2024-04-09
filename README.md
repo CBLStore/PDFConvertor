@@ -25,6 +25,18 @@ To use this Lightning web component in your Salesforce environment, follow these
 ## Usage Scenario
 The Image to PDF Converter Lightning Web Component is ideal for scenarios where users need to upload multiple images and convert them into a PDF file for documentation, presentation, or archival purposes. It enhances productivity and data management efficiency within Salesforce applications.
 
+![Screenshot 2024-04-09 153933](https://github.com/vetriCR/PDFConvertor/assets/147226269/24c1ac52-30ad-4d6c-99b7-eaf9cabdd159)
+
+- Click on the "Upload Files" button or drag and drop image files into the file uploader input field.
+- You can select multiple images to be converted into a single PDF document.
+- If you want to remove any selected file before conversion, click on the cancel button ('x' icon) next to that file.
+- The file will be removed from the list, and the remaining files will automatically adjust their order.
+- Once you have selected the desired files and configured the file name, click on the "Upload" button.
+
+![Screenshot 2024-04-09 154414](https://github.com/vetriCR/PDFConvertor/assets/147226269/24a81b37-9109-4f0d-acea-dc8258dc050d)
+
+- Once the conversion is finished, the component will display a success message indicating that the file upload was successful.
+- You can now view or download the converted PDF document in the related notes and attachment section.
 
 # Salesforce DX Project: Next Steps
 
