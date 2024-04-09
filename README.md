@@ -34,7 +34,7 @@ The Image to PDF Converter Lightning Web Component is ideal for scenarios where 
 - The file will be removed from the list, and the remaining files will automatically adjust their order.
 - Once you have selected the desired files and configured the file name, click on the "Upload" button.
 
-![Screenshot 2024-04-09 163740](https://github.com/vetriCR/PDFConvertor/assets/147226269/3ed05278-1b97-48f0-9bea-02d9c2b848aa)
+![Screenshot 2024-04-09 164832](https://github.com/vetriCR/PDFConvertor/assets/147226269/7e7febab-cbdf-4a49-85ff-bc1f7063b165)
 
 - Once the conversion is finished, the component will display a success message indicating that the file upload was successful.
 - You can now view or download the converted PDF document in the related notes and attachment section.
